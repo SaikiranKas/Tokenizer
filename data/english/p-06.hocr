@@ -1,0 +1,52 @@
+<html><head></head><body><p class="ocr_plain_text" title="bbox 295 555 1842 711">Note that velocity and density enter eq. B) in a different way: velocity is in the
+exponent and density enters as the product p(x)p(x/). This provides an opportunity
+to disentangle the two contributions.
+</p>
+<p class="ocr_title" title="bbox 299 768 923 819">3.2. Spectrum in PPV Space
+</p>
+<p class="ocr_plain_text" title="bbox 295 846 1841 996">LP99 proves that in terms of final results for Lognormal distribution of density fluctu-
+ations and Gaussian distribution of velocity fluctuations it is safe to separate velocity
+and density in the following way
+</p>
+<p class="ocr_isolate_formula" title="bbox 675 1027 1442 1093">\langle e^{i f...}\rho({\bf x})\rho({\bf x}/)\rangle=\langle e^{i f...}\rangle\langle\rho({\bf x})\rho({\bf x}+{\bf r})\rangle\;\;\;.</p>
+<p class="ocr_formula_caption" title="bbox 1779 1036 1835 1086"> </p>
+<p class="ocr_formula_caption" title="bbox 1779 1036 1835 1086"> </p>
+<p class="ocr_plain_text" title="bbox 292 1125 1842 1274">even if density and velocity are strongly correlated. It is interesting to check the degree
+of uncertainty that the assumption i) entails using numerically generated density and
+velocity fields.
+</p>
+<p class="ocr_plain_text" title="bbox 296 1276 1841 1376">For the sake of simplicity the density correlation function and velocity correlation
+tensor are considered to be isotropic in Galactic coordinates (xyz space), i.e.
+</p>
+<p class="ocr_isolate_formula" title="bbox 780 1412 1350 1470">\left\langle\rho({\bf x})\rho({\bf x}+{\bf z})\right\rangle\underline{{{=}}}\ \zeta(r)\underline{{{\ell}}}(r)\underline{{{-}}}\ \zeta({\bf z})\qquad.</p>
+<p class="ocr_formula_caption" title="bbox 1780 1415 1835 1466"> </p>
+<p class="ocr_isolate_formula" title="bbox 567 1500 1559 1585">\langle\Delta u_{i}\Delta u_{j}\rangle=(D_{L L}(r)-D_{N N}(r))\frac{r_{i}r_{j}}{r^{2}}+D_{N N}(r)\delta_{i j}\quad,</p>
+<p class="ocr_formula_caption" title="bbox 1780 1517 1834 1567"> </p>
+<p class="ocr_plain_text" title="bbox 297 1601 1838 1811">where Dizi, Dnw are longitudinal and transverse correlation functions respectively
+(Monin &amp; Yaglom 1972), and 6;, equals 1 for i = &amp; and zero otherwise. These assump-
+tions are not necessary, as the treatment can be provided for instance for axisymmetric
+turbulent motions (see Oughton, Radler &amp; Matthaeus 1997) as it is discussed in (L95).
+</p>
+<p class="ocr_plain_text" title="bbox 357 1802 1678 1851">The general expression for the 3D spectrum in PPV space is
+</p>
+<p class="ocr_isolate_formula" title="bbox 555 1882 1576 1995">P_{s}({\bf k})=e^{-f^{2}k_{z}^{2}v_{T}^{2}/2}\int d^{3}{\bf r}\:e^{i{\bf k}\cdot{\bf r}}\xi(r)\exp\left[-\frac{1}{2}f^{2}k_{z}^{2}D_{z}({\bf r})\right],</p>
+<p class="ocr_formula_caption" title="bbox 1779 1914 1835 1963"> </p>
+<p class="ocr_plain_text" title="bbox 296 2027 412 2072">where
+</p>
+<p class="ocr_isolate_formula" title="bbox 330 2110 1790 2173">D_{z}({\bf r})\equiv\langle\Delta u_{i}\Delta u_{j}\rangle\hat{z}_{i}\hat{z}_{j}=D_{N N}(r)+[D_{L L}(r)-D_{N N}(r)]\cos^{2}\theta\;,\;\;\;\;\cos\theta\equiv\hat{\bf r}\cdot\hat{\bf z}\;\;\;\mathrm{!}</p>
+<p class="ocr_formula_caption" title="bbox 1781 2117 1835 2165"> </p>
+<p class="ocr_plain_text" title="bbox 295 2199 1841 2356">is the projection of structure tensor to the z-axis. Expression () is quite general and
+can be used to relate arbitrary velocity and density statistics in galactic coordinates
+with the HI emissivity in the PPV space.
+</p>
+<p class="ocr_title" title="bbox 297 2418 1011 2476">4 Spectra in Velocity Slices
+</p>
+<p class="ocr_plain_text" title="bbox 294 2514 1840 2819">Observations of Galactic HI (Green 1993) revealed two dimensional spectrum of in-
+tensity fluctuations (see L95) and this spectrum shows power-law behaivior. Similar
+power laws for Galactic data were obtained by Crovisier &amp; Dickey (1983), Kalberla &amp;
+Mebold (1983), Kalberla &amp; Stenholm (1983) and for Small Magellanic Clouds (SMC)
+by Stanimirovic et al. (1999). Thus LP99 considered power law statistics, namely,
+of velocity P3, ~ k” and density P3, ~ k”, where P is used to denote spectra in
+</p>
+<p class="ocr_abandon" title="bbox 1053 2890 1082 2926"> </p>
+</body></html>

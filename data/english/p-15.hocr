@@ -1,0 +1,52 @@
+<html><head></head><body><p class="ocr_plain_text" title="bbox 292 561 1692 612">spectra with each other. For this purpose the following measure is proposed:
+</p>
+<p class="ocr_isolate_formula" title="bbox 604 627 1530 744">S(T_{1},T_{0})_{s,l}\equiv1-\left(\frac{D(T_{1},T_{2})}{s^{2}\int T_{1}^{2}(v)d v+\int T_{0}^{2}(v)d v}\right)\quad,</p>
+<p class="ocr_formula_caption" title="bbox 1760 659 1835 709"> </p>
+<p class="ocr_plain_text" title="bbox 296 758 643 804">where the function
+</p>
+<p class="ocr_isolate_formula" title="bbox 671 814 1464 924">D(T_{1},T_{2})_{s,l}\equiv\left\{\int[s T_{1}(v+l)-T_{0}(v)]^{2}d v\right\}</p>
+<p class="ocr_formula_caption" title="bbox 1760 843 1834 894"> </p>
+<p class="ocr_plain_text" title="bbox 297 939 1841 1138">and the parameters s and / can be adjusted. One way to choose them is to minimize
+D function. In this case S function gets sensitive to similarities in the shape of two
+profiles. Fixing /, s or both parameters one can get another 3 function that are also
+sensitive to similarities in amplitude, velocity offset or to both parameters.
+</p>
+<p class="ocr_plain_text" title="bbox 297 1142 1841 1637">The purpose of those functions is to distinguish regions with various star forming
+activity and to compare numerical models with observations. To do this histograms
+of SCF are compared with histograms of SCF obtained for the randomized spatial
+positions. This allows to models to be distinguished on the basis of their clustering
+properties. First results reported by Rosolowsky et al. (1999) are very encouraging.
+It was possible to find differences for simulations corresponding to magnetized and
+unmagnetized media and for those data sets for which an earlier analysis by Falgarone
+et al. (1994) could not find the difference. The mathematical development of this new
+tool is under way (Padoan et al. 2000) and we expect new exciting results to be
+obtained in the near future.
+</p>
+<p class="ocr_plain_text" title="bbox 295 1639 1840 2283">A few comments about spectral correlation functions may be relevant. First of all,
+by its definition it is a very flexible tool. In the analysis of Rosolowsky et al. (1999)
+the SCF were calculated for the subcubes over which the original data was divided. In
+this way SCF preserves the spatial information and in some sense is similar to cloud-
+finding algorithms (see Stutzki &amp; Gusten 1990, Williams, de Geus &amp; Blitz 1994).
+However, one may fix the angular separation between the studied spectra and then
+the technique will be more similar to the traditional correlation function analysis
+that is sensitive to turbulence scale rather than to positional information. I believe
+that this avenue should be explored in future along with other more sophisticated
+techniques that can be applied to SCF. At first glance, it looks counterproductive to
+get a whole lot of various correlations using SCF as the input data. However, we must
+find a way of distinguishing regions with various physical properties and we are still
+in search for the best descriptors.
+</p>
+<p class="ocr_plain_text" title="bbox 296 2288 1844 2582">At the moment the distinction between various interstellar regions and the sets of
+simulated data is made by eye examining the histograms of SCF. With more informa-
+tion available it seems feasible to use wavelets that will emphasize some characteristics
+of the histograms in order to make the distinction quantitative. Construction these
+wavelets will be the way of “teaching” SCF to extract features that distinguish various
+sets of data.
+</p>
+<p class="ocr_title" title="bbox 297 2637 750 2688">9.2 Genus Statistics
+</p>
+<p class="ocr_plain_text" title="bbox 296 2714 1841 2816">The topology of ISM is an essential characteristic of the media. Genus analysis has
+been proved to be a useful tool for characterizing topology of the Universe (see Gott
+</p>
+<p class="ocr_abandon" title="bbox 1048 2890 1090 2926"> </p>
+</body></html>

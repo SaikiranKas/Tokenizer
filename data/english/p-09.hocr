@@ -1,0 +1,53 @@
+<html><head></head><body><p class="ocr_plain_text" title="bbox 296 562 1842 661">at the scale 30 pc amount to 10 km/s and arise from the Kolmogorov turbulence, the
+structure functions of velocity are
+</p>
+<p class="ocr_isolate_formula" title="bbox 725 701 1401 825">D_{L L}(r)\approx100\left(\frac{r}{30\mathrm{p}\mathrm{c}}\right)^{2/3}\;\;\mathrm{\ly~}\mathrm{\ly~}\mathrm{\ly~}\mathrm{\bf~km^{2}s^{-2}~}\quad,</p>
+<p class="ocr_formula_caption" title="bbox 1761 740 1834 791"> </p>
+<p class="ocr_plain_text" title="bbox 296 860 1840 1059">The width of the interferometer channels combined to give a single data point in
+Green’s dataset is DV = 5.94 km/s. The slice thickness in parsec is £ ¥ 6V f pc, and
+varies from * 600 pc for the closest slices to + 2200 pc for the distant ones] The
+
+wavenumber of transition from thin to think slice given by eq. (4) is equal 0.16 pc7!.
+</p>
+<p class="ocr_plain_text" title="bbox 296 1063 1841 1211">In figure 1 the turbulence scales covered by Green’s study are shown. The smallest
+|K| span from ~ 1/3 pce~? for the closest slices to 1/200 pc~! for the distant ones. It
+is obvious that most of the measurements correspond to the thin slice regime.
+</p>
+<img class="ocr_figure" src="../Cropped_Images/figure_9_1.jpg" title="bbox 653 1288 1447 2076"/><p class="ocr_figure_caption" title="bbox 295 2136 1841 2534">Fig. 1. The variations of geometric scales with the sampling velocity are shown (from LP99). The
+upper curve corresponds to the variations of the correlation scale \ = (f2C)1/(2-™) in the velocity
+space. Physically this is the scale at which the square root of velocity dispersion ~ (Crx™)1/2 become
+equal to the difference of the regular velocities due to Galactic rotation. The middle curve corresponds
+to the variations of the slice thickness L. The darkened area in the Figure depicts to the range of the
+turbulence scales under study in Green (1993). The solid curve within the darkened area corresponds
+to the interferometric measurements with the baseline 21 m. The lower horizontal line denotes value
+of |K|~1 which separates thin (above) and thick slice regimes (below) for cold HI. The contribution
+of fluctuations from the warm phase is suppressed when the slices are thin for cold HI and thick for
+warm HI (LP99).
+</p>
+<p class="ocr_plain_text" title="bbox 295 2136 1841 2534">Fig. 1. The variations of geometric scales with the sampling velocity are shown (from LP99). The
+upper curve corresponds to the variations of the correlation scale \ = (f2C)1/(2-™) in the velocity
+space. Physically this is the scale at which the square root of velocity dispersion ~ (Crx™)1/2 become
+equal to the difference of the regular velocities due to Galactic rotation. The middle curve corresponds
+to the variations of the slice thickness L. The darkened area in the Figure depicts to the range of the
+turbulence scales under study in Green (1993). The solid curve within the darkened area corresponds
+to the interferometric measurements with the baseline 21 m. The lower horizontal line denotes value
+of |K|~1 which separates thin (above) and thick slice regimes (below) for cold HI. The contribution
+of fluctuations from the warm phase is suppressed when the slices are thin for cold HI and thick for
+warm HI (LP99).
+</p>
+<p class="ocr_abandon" title="bbox 295 2573 1839 2813">4Note, that the cut-off due to thermal velocity (see section 2.1) in Warm Neutral Medium (see
+a table of idealized phases in Draine &amp; Lazarian (1999) ) is ~ 6 km/s. If the WNM constitutes the
+dominant fraction of the neutral phase (Dickey 1995) then the velocity resolution above is optimal
+and no further decrease in dV will result in getting new information. However, if close to Galactic
+plane Cold Neutral Media constitutes a substantial portion of mass, the increase of velocity resolution
+up to 1 km/s is desirable.
+</p>
+<p class="ocr_plain_text" title="bbox 295 2573 1839 2813">4Note, that the cut-off due to thermal velocity (see section 2.1) in Warm Neutral Medium (see
+a table of idealized phases in Draine &amp; Lazarian (1999) ) is ~ 6 km/s. If the WNM constitutes the
+dominant fraction of the neutral phase (Dickey 1995) then the velocity resolution above is optimal
+and no further decrease in dV will result in getting new information. However, if close to Galactic
+plane Cold Neutral Media constitutes a substantial portion of mass, the increase of velocity resolution
+up to 1 km/s is desirable.
+</p>
+<p class="ocr_abandon" title="bbox 1054 2892 1081 2924"> </p>
+</body></html>

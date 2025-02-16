@@ -1,0 +1,56 @@
+<html><head></head><body><p class="ocr_title" title="bbox 298 562 818 611">8.2 Various Transitions
+</p>
+<p class="ocr_plain_text" title="bbox 297 641 1841 990">As we discussed earlier, one of the advantages of using HI as a test case is that the
+emissivity is proportional to the column density. This is true for some optically thin
+transitions in molecular clouds, but fails when absorption is important. My analysis
+showed that the absorption is relatively easy to account for if it arises from dust,
+but much harder to deal with if it is self-adsorption. In the former case most of the
+analysis above is valid provided that the turbulence scale under study is much smaller
+than the extinction length.
+</p>
+<p class="ocr_plain_text" title="bbox 299 995 1840 1240">Homogeneity of sample is another major concern for studies of turbulence in molec-
+ular clouds (see Houlahan &amp; Scalo 1990). Filtering the data (see Miesch &amp; Bally 1994),
+application of wavelets (see Stutzki et al. 1998) or both are required. However, it seems
+that as the resolution of data improves the effects of cloud edges get less important
+and easier to take care of.
+</p>
+<p class="ocr_plain_text" title="bbox 297 1245 1843 1443">Some emissivities, e.g. those of Ha lines are proportional to the squared density of
+species. However, it is possible to generalize the technique above for those transitions
+and provide a quantitative treatment of turbulence in ionized emitting media, e.g. of
+HII regions (O’Dell 1986, O’Dell &amp; Castaneda 1987).
+</p>
+<p class="ocr_title" title="bbox 298 1515 945 1573">9 Beyond Power Spectra
+</p>
+<p class="ocr_plain_text" title="bbox 296 1617 1840 1716">The approach that we discussed so far can be characterized as an interpretation of
+the emissivity spectrah] in terms of the underlying statistics of velocity and density.
+</p>
+<p class="ocr_plain_text" title="bbox 297 1720 1840 1966">The advantage of this approach is that no numerical inversion (see Lazarian 1999)
+is performed and thus one should not worry about increase of the data noise. The
+power spectra are widely used in hydrodynamics and therefore there is hope to relate
+the statistics of interstellar turbulence with something simple and more familiar like
+Kolmogorov-type cascade.
+</p>
+<p class="ocr_plain_text" title="bbox 297 1972 1839 2416">In spite of all these advantages, the information that this approach can supply
+us with is limited. Indeed, media clustered by self-gravity and more diffuse media
+may have the same index of power spectrum, while being very different. In general,
+statistical measures borrowed from hydrodynamics may not be adequate while deal-
+ing with interstellar media. Indeed, we have to address particular questions, e.g. the
+question the identification of star-forming regions, which are beyond the standard
+hydrodynamic description. Therefore attempts to introduce new descriptors are wor-
+thy of high praise. It may happen that in answering specific questions one has to use
+particular descriptors.
+</p>
+<p class="ocr_title" title="bbox 298 2484 1036 2534">9.1 Spectral Correlation Function
+</p>
+<p class="ocr_title" title="bbox 297 2484 1037 2535">9.1 Spectral Correlation Function
+</p>
+<p class="ocr_plain_text" title="bbox 294 2565 1838 2664">A new tool termed “spectral correlation function” or SCF has been recently intro-
+duced to the field (Goodman 1999, Rosolowsky et al. 1999). It compares neighboring
+</p>
+<p class="ocr_abandon" title="bbox 294 2693 1838 2813">8 In fact we do not distinguish between spectra and correlation functions. The two statistics are
+related via Fourier transform and provide an equivalent description. In some particular circumstances
+one or the other may be more convenient, however.
+</p>
+<p class="ocr_abandon" title="bbox 1048 2891 1089 2926">14
+</p>
+</body></html>

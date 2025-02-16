@@ -1,0 +1,52 @@
+<html><head></head><body><p class="ocr_table" title="bbox 719 599 1417 1047">thick slice thin slice
+
+Pop (KK) : ||"; |xjrtrn/?
+
+Poy(K) + ||? [ik |-84+/?
+</p>
+<p class="ocr_table_caption" title="bbox 294 1118 1839 1199">Tab. 1. Asymptotics of the components of 2D spectrum in the thin and thick velocity slices, m =
+—v—3.
+</p>
+<p class="ocr_figure_caption" title="bbox 294 1118 1839 1199">Tab. 1. Asymptotics of the components of 2D spectrum in the thin and thick velocity slices, m =
+—v—3.
+</p>
+<p class="ocr_plain_text" title="bbox 363 1282 571 1328">Thin Slices
+</p>
+<p class="ocr_title" title="bbox 363 1282 571 1328">Thin Slices
+</p>
+<p class="ocr_plain_text" title="bbox 295 1331 1842 1529">It is easy to see from Table 1 that in thin slices the velocity mapping makes the
+spectra more shallow (as m &gt; 0). This means that velocity creates a lot of small scale
+structures. It is also evident that if the n &lt; —3 the Py, contribution dominates. In
+the opposite regime P:, contribution is important.
+</p>
+<p class="ocr_plain_text" title="bbox 362 1531 587 1577">Thick Slices
+</p>
+<p class="ocr_plain_text" title="bbox 296 1578 1840 1878">The relative importance of P:, and P2, depends on whether n &gt; —3 — m/2 orn &lt;
+—3—m/2. In the former case P2, dominates, while for the latter P2, becomes dominant
+only when the slice is very thick, i.e. a substantial portion of the line is integrated
+over. Indeed, it is easy to see that integration over the line-width leaves only density
+information. In the intermediate situation if the density spectrum is steep, i.e. n &lt;
+—3 —m/2 Ps, provides most of the contribution to Pp».
+</p>
+<p class="ocr_plain_text" title="bbox 296 1882 1841 2178">For warm HI the thermal velocity dispersion is comparable with the turbulent
+one. Thus fluctuations of intensity arise mostly from density inhomogeneities and
+the analysis in L95 is applicable. The amplidude of fluctuations arising from the
+warm phase of HI is suppressed due thermal velocity smearing effects. Therefore in
+the mixture of the warm and cold phase the contribution of the cold phase to the
+measured spectrum is likely to dominate (LP99).
+</p>
+<p class="ocr_title" title="bbox 298 2242 948 2299">5 Statistics of Diffuse HI
+</p>
+<p class="ocr_title" title="bbox 297 2338 752 2390">5.1 Analysis of data
+</p>
+<p class="ocr_plain_text" title="bbox 297 2417 1842 2823">One of the most thorough jobs of obtaining 21 cm statistics was done by Green (1993).
+His observations of the HI emission were accomplished with the Synthesis Telescope
+of the Dominion Radio Astrophysical Observatory (DRAO) towards | = 140°, b = 0°
+(03"03™23*, +58°06/20’, epoch 1950.0) and they revealed a power law spectrum of 2D
+intensity. This spectrum is proportional to P2(K)|- and its interpretation depends on
+whether the slicing is thick or thin. To answer this question one has to estimate
+the dispersion of turbulent velocity at the scales under study and compare it to the
+velocity thickness of the slice (see eq. (13) and (14). Assuming that velocity variations
+</p>
+<p class="ocr_abandon" title="bbox 1054 2891 1081 2926"> </p>
+</body></html>

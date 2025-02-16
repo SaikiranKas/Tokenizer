@@ -1,0 +1,154 @@
+{
+    "google/mt5-large": {
+        "p-01.hocr": {
+            "Total_Words": 57,
+            "Total_Tokens": 157,
+            "Fertility_Score": 2.754385964912281
+        },
+        "p-02.hocr": {
+            "Total_Words": 305,
+            "Total_Tokens": 854,
+            "Fertility_Score": 2.8
+        },
+        "p-03.hocr": {
+            "Total_Words": 284,
+            "Total_Tokens": 771,
+            "Fertility_Score": 2.714788732394366
+        },
+        "p-04.hocr": {
+            "Total_Words": 549,
+            "Total_Tokens": 1437,
+            "Fertility_Score": 2.6174863387978142
+        },
+        "p-05.hocr": {
+            "Total_Words": 404,
+            "Total_Tokens": 1143,
+            "Fertility_Score": 2.8292079207920793
+        },
+        "p-06.hocr": {
+            "Total_Words": 284,
+            "Total_Tokens": 816,
+            "Fertility_Score": 2.8732394366197185
+        },
+        "p-07.hocr": {
+            "Total_Words": 302,
+            "Total_Tokens": 863,
+            "Fertility_Score": 2.857615894039735
+        },
+        "p-08.hocr": {
+            "Total_Words": 259,
+            "Total_Tokens": 689,
+            "Fertility_Score": 2.66023166023166
+        },
+        "p-09.hocr": {
+            "Total_Words": 232,
+            "Total_Tokens": 706,
+            "Fertility_Score": 3.043103448275862
+        },
+        "p-10.hocr": {
+            "Total_Words": 275,
+            "Total_Tokens": 751,
+            "Fertility_Score": 2.730909090909091
+        },
+        "p-11.hocr": {
+            "Total_Words": 254,
+            "Total_Tokens": 753,
+            "Fertility_Score": 2.9645669291338583
+        },
+        "p-12.hocr": {
+            "Total_Words": 278,
+            "Total_Tokens": 756,
+            "Fertility_Score": 2.7194244604316546
+        },
+        "p-13.hocr": {
+            "Total_Words": 258,
+            "Total_Tokens": 694,
+            "Fertility_Score": 2.689922480620155
+        },
+        "p-14.hocr": {
+            "Total_Words": 268,
+            "Total_Tokens": 711,
+            "Fertility_Score": 2.6529850746268657
+        },
+        "p-15.hocr": {
+            "Total_Words": 276,
+            "Total_Tokens": 774,
+            "Fertility_Score": 2.8043478260869565
+        },
+        "p-16.hocr": {
+            "Total_Words": 323,
+            "Total_Tokens": 910,
+            "Fertility_Score": 2.8173374613003097
+        },
+        "p-17.hocr": {
+            "Total_Words": 332,
+            "Total_Tokens": 916,
+            "Fertility_Score": 2.7590361445783134
+        },
+        "p-18.hocr": {
+            "Total_Words": 245,
+            "Total_Tokens": 703,
+            "Fertility_Score": 2.869387755102041
+        },
+        "p-19.hocr": {
+            "Total_Words": 135,
+            "Total_Tokens": 224,
+            "Fertility_Score": 1.6592592592592592
+        },
+        "p-20.hocr": {
+            "Total_Words": 297,
+            "Total_Tokens": 774,
+            "Fertility_Score": 2.606060606060606
+        },
+        "p-21.hocr": {
+            "Total_Words": 249,
+            "Total_Tokens": 702,
+            "Fertility_Score": 2.819277108433735
+        },
+        "p-22.hocr": {
+            "Total_Words": 318,
+            "Total_Tokens": 885,
+            "Fertility_Score": 2.7830188679245285
+        },
+        "p-23.hocr": {
+            "Total_Words": 140,
+            "Total_Tokens": 245,
+            "Fertility_Score": 1.75
+        },
+        "p-24.hocr": {
+            "Total_Words": 297,
+            "Total_Tokens": 798,
+            "Fertility_Score": 2.686868686868687
+        },
+        "p-25.hocr": {
+            "Total_Words": 266,
+            "Total_Tokens": 727,
+            "Fertility_Score": 2.7330827067669174
+        },
+        "p-26.hocr": {
+            "Total_Words": 62,
+            "Total_Tokens": 170,
+            "Fertility_Score": 2.7419354838709675
+        },
+        "p-27.hocr": {
+            "Total_Words": 247,
+            "Total_Tokens": 749,
+            "Fertility_Score": 3.032388663967611
+        },
+        "p-28.hocr": {
+            "Total_Words": 310,
+            "Total_Tokens": 548,
+            "Fertility_Score": 1.767741935483871
+        },
+        "p-29.hocr": {
+            "Total_Words": 234,
+            "Total_Tokens": 756,
+            "Fertility_Score": 3.230769230769231
+        },
+        "Document_Level": {
+            "Total_Words": 7740,
+            "Total_Tokens": 20982,
+            "Fertility_Score": 2.7108527131782947
+        }
+    }
+}

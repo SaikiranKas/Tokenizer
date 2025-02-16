@@ -1,0 +1,56 @@
+<html><head></head><body><p class="ocr_plain_text" title="bbox 296 562 1840 861">henceforth L95), small localized absorption features typical to HI only marginally
+influence the statistics on the scales larger than their size. For another thing, the
+pervasive distribution of neutral hydrogen presents a sharp contrast to the localized
+distribution of molecular species, and this alleviates problems related to averaging.
+Moreover, atomic hydrogen emissivity is proportional to the first power of atomic
+density and this simplifies the analysis.
+</p>
+<p class="ocr_plain_text" title="bbox 297 865 1840 1110">HI has a substantial filling factor (~ 20% or larger) in the Galactic disc and
+therefore its motions should reflect large scale galactic supersonic turbulence. At the
+same time, its statistics may have connection with the statistics of molecular clouds.
+An additional advantage of HI is that it can be studied not only within our Galaxy
+but for the nearby galaxies as well.
+</p>
+<p class="ocr_plain_text" title="bbox 297 1116 1841 1612">Another motivation for studies of HI statistics stems from the recent attempt to
+describe the structures in the Galactic hydrogen in order to estimate the fluctuations
+of microwave polarization arising from interstellar dust. This contribution is extremely
+important in view of present-day efforts in the Cosmic Microwave Background (CMB)
+research (see Prunet &amp; Lazarian 1999, Draine &amp; Lazarian 1999). Some of the studies,
+for instance one by Sethi, Prunet and Bouchet (1998), attempts to relate the statistics
+of density observed in the velocity space and the statistics of polarization fluctuations.
+If such a relation were possible, it would greatly alleviate the efforts to study polariza-
+tion of cosmological origin. As an intermediate step in this work, however, one should
+relate the statistics in emissivity in the PPV space and density of HI in real space.
+</p>
+<p class="ocr_plain_text" title="bbox 298 1616 1841 1761">The timing for developing statistical tools for HI studies is also influenced by the
+fact that new large data cubes, e.g. the Canadian Galactic Survey data (see Higgs
+1999), should become available soon.
+</p>
+<p class="ocr_title" title="bbox 297 1835 767 1892">3 Basic equations
+</p>
+<p class="ocr_title" title="bbox 297 1934 920 1986">3.1 Space-Velocity Mapping
+</p>
+<p class="ocr_title" title="bbox 299 2017 454 2061">Problem
+</p>
+<p class="ocr_plain_text" title="bbox 299 2017 454 2061">Problem
+</p>
+<p class="ocr_plain_text" title="bbox 298 2066 1841 2563">The notion that the velocity fluctuation can influence emissivity within PPV data
+cubes is not new. Since the early-seventies Butler Burton on numerous occasions
+claimed the importance of velocity fluctuations for the interpretation of 21 cm data
+(Burton 1970, 1971). The ambiguities of inferring cloud properties from CO emission
+lines were discussed by Adler &amp; Roberts (1992). Using N-cloud simulations of spiral
+disks they showed that many spurious effects appear because of velocity blending
+along line of sight. Recently a number of researchers doing numerics (Pichardo et al.
+1999, Vazques-Semadeni 1999) pointed out that pixel-to-pixel correlation between the
+channel maps and the velocity slices of PPV data cubes tends to be larger with the
+velocity rather than the density field.
+</p>
+<p class="ocr_plain_text" title="bbox 296 2566 1840 2761">To describe power spectra of velocity and density fields, i.e. to express the inter-
+stellar statistics using the language that was so successful in hygrodynamics (Monin
+&amp; Yaglom 1972), one needs to disentangle velocity and denisty contributions to 21 cm
+emissivity fluctuations.
+</p>
+<p class="ocr_plain_text" title="bbox 363 2769 535 2815">Approach
+</p>
+<p class="ocr_abandon" title="bbox 1055 2891 1081 2925"> </p>
+</body></html>

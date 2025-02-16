@@ -1,0 +1,55 @@
+<html><head></head><body><p class="ocr_title" title="bbox 298 561 1274 613">6.2 Anisotropies and magnetic field direction
+</p>
+<p class="ocr_plain_text" title="bbox 296 639 1840 839">It is both challenging and important to determine the degree of anisotropy for the
+HI statistics for various parts of the Galaxy. This information can provide an insight
+to the nature of HI turbulence and may be used as a diagnostic for the interstellar
+magnetic field. For instance, measurements of the structure functions of HI intensity
+</p>
+<p class="ocr_isolate_formula" title="bbox 812 875 1323 937">\begin{array}{c c c}{{G\left(\theta\right),\left(\phantom{a b}\to0\right)\longrightarrow\longrightarrow}}&amp;{{\left\langle\left(\frac{A}{B}-1\right)\stackrel{\mathcal{b}}{\longrightarrow}\right.\sum\left(\frac{B}{B}\right)\right)\prod_{\mathcal{b}}\left(\phantom{a b}\operatorname{vabb}\right)-1\right)\left(\frac{B}{B}\right)-1\right)}}\end{array}</p>
+<p class="ocr_formula_caption" title="bbox 1760 880 1835 931"> </p>
+<p class="ocr_plain_text" title="bbox 295 969 1839 1220">as a function of a positional angle ¢ for individual subsets of data should reveal
+magnetic field direction in various portions of the sky, if the turbulence is anisotropic
+as we expect it to be. This technique is somewhat analogous to a technique of finding
+magnetic field direction using the fluctuations of synchrotron radiation (see Lazarian
+1992) but its applicability may be much wider.
+</p>
+<p class="ocr_plain_text" title="bbox 296 1223 1840 1420">So far, the attempts to measure anisotropy in HI are limited to the Green (1994)
+study, where no anisotropy was detected. Apparently a better analysis is needed. For
+the slices with high degree of anisotropy the statistical technique can be improved as
+suggested in L95.
+</p>
+<p class="ocr_title" title="bbox 298 1484 995 1543">7 Structures in PPV space
+</p>
+<p class="ocr_plain_text" title="bbox 296 1581 1840 2083">PPV data cubes, e.g. HI data cubes, exhibit a lot of small scale emissivity structurd)
+The question is what part of them is real, i.e. is associated with density enhancements
+in galactic coordinates and what part of them is produced by velocity fluctuations. A
+related question is whether the structures we see are produced dynamically, through
+forces, e.g. self-gravity, acting on the media or they may be produced statistically
+exhibiting the properties of random field. The second question was partially answered
+in Lazarian &amp; Pogosyan (1997), where it was shown that density fluctuations with
+Gaussian distribution and power spectra result in filamentary structures. The struc-
+tures become anisotropic and directed towards the observer when the velocity effects
+are accounted for] (see Lazarian 1999, fig. 2).
+</p>
+<p class="ocr_plain_text" title="bbox 296 2086 1840 2381">The issue of density enhancements produced by velocity fluctuations is closely
+related to the statistics of “clouds” observed in PPV space. The results on velocity
+mapping that we discussed earlier suggest that spectra of fluctuations observed in
+PPV velocity slices are more shallow than the underlying spectra. This means more
+power on small scales or, in other words, more small scale structure (“clouds”) appears
+in the PPV slices due to velocity fluctuations.
+</p>
+<p class="ocr_plain_text" title="bbox 297 2384 1841 2629">It has been believed for decades that emission cloud surveys (see Casoli et al.
+1984, Sanders et al. 1985, Brand &amp; Wouterloot 1995) provide a better handle on the
+actual spectrum of cloud mass and sizes than the extinction surveys (see Scalo 1985)
+because the velocity resolution is available. These two sorts of survey present different
+slopes for clump sizes and the difference cannot be accounted through occlusion of
+</p>
+<p class="ocr_abandon" title="bbox 295 2651 1838 2813">6Tt was noticed by Langer, Wilson &amp; Anderson (1993) that more structure is seen in PPV space
+than in the integrated intensity maps.
+
+’There is a distant analogy between this effect and the “fingers of God” effect (see Peebles 1971)
+in the studies of large scale structure of the Universe.
+</p>
+<p class="ocr_abandon" title="bbox 1048 2891 1091 2925">12
+</p>
+</body></html>

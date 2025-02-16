@@ -1,0 +1,46 @@
+<html><head></head><body><p class="ocr_plain_text" title="bbox 295 561 1843 814">A quantitative treatment of the effects of space-velocity mapping is given in Lazarian
+&amp; Pogosyan (1999, henthforth LP99). There it is assumed that the velocity of a gas
+element can be presented as a sum of the regular part v’°9 which can arise for instance
+from Galactic rotation, and a random, turbulent, part u, so that v°* = v9 + u.
+The mapping from real space to PPV coordinates corresponds to a transformation
+</p>
+<p class="ocr_isolate_formula" title="bbox 773 851 1358 978">\begin{array}{l c l}{{{\bf X}_{\mathrm{s}}}}&amp;{{=}}&amp;{{{\bf X}}}\\ {{z_{s}}}&amp;{{=}}&amp;{{A\left[f^{-1}z-{\bf u}({\bf x})\cdot\hat{{\bf z}}\right]\quad,}}\end{array}\quad,</p>
+<p class="ocr_formula_caption" title="bbox 1780 919 1834 970"> </p>
+<p class="ocr_plain_text" title="bbox 296 1010 1841 1515">where henceforth we use large letters to denote vectors in the Position-Position plane
+(i.e. xy-plane) and use z, for the velocity coordinate. The parameter A is just a
+conversion factor which specifies the units of z, coordinate and it is intuitively clear
+that this factor should not enter any final expressions for turbulence statistics. On
+the contrary, the shear parameter f = (5v%°9/5z)~* is an important characteristic
+of the mapping and one expects it to influence our final results. For Galactic disc
+mapping it is convenient to choose A = f, while studies of isolated clouds correspond
+to a zero shear, i.e. f~' + 0. As most work on HI has been done so far on Galactic
+disc HI, to simplify our presentation we use the former choice. With this definition of
+space-velocity mapping LP99 obtain the power spectrum P; in the PPV space:
+</p>
+<p class="ocr_isolate_formula" title="bbox 471 1548 1662 1717">\begin{array}{r c l}{{\langle\rho_{s}({\bf k})\rho_{s}^{\ast}({\bf k}^{\prime})\rangle}}&amp;{{=}}&amp;{{P_{s}({\bf k})\delta({\bf k}-{\bf k}^{\prime})}}\\ {{P_{s}({\bf k})}}&amp;{{=}}&amp;{{e^{-f^{2}k_{s}^{'}v_{T}^{'}}\int d^{3}{\bf r}\,e^{i{\bf k}\cdot{\bf r}}\Xi({\bf k},{\bf r}),\qquad{\bf r}={\bf x}-{\bf x}/\mathrm{\boldmath~\;}}}\end{array}</p>
+<p class="ocr_formula_caption" title="bbox 1780 1641 1835 1688"> </p>
+<p class="ocr_plain_text" title="bbox 296 1752 647 1799">where the kernel is
+</p>
+<p class="ocr_isolate_formula" title="bbox 686 1836 1443 1904">\overline{{{\longrightarrow}}}({\bf{k}},{\bf{r}})\,\Longrightarrow\,\langle e^{i f k_{z}\,(u_{z}({\bf{x}})-u_{z}({\bf{x}}/))}\rho({\bf{x}})\rho({\bf{x}}/)\rangle\quad.</p>
+<p class="ocr_formula_caption" title="bbox 1781 1848 1834 1898"> </p>
+<p class="ocr_plain_text" title="bbox 296 1937 1840 2742">In derivation of this expression it is explicitly assumed that the turbulence is statisti-
+cally homogeneous in the real space coordinates and the average denoted by angular
+brackets (....) depends only on the vector separation between points. The density
+Fourier modes in PPV space p(k) are uncorrelatedP] which is reflected in 6 function
+presence in the right-hand side of the first equation in (2). The factor e~/ 7K LUT where
+ur is a thermal velocity of atoms originates from averaging over thermal distribution
+and it shows that only supersonic motions are readily available for statistical studies.
+Note, that expressions similar to and (B) were earlier obtained by Scoccimarro
+et al. (1999) in the framework of studies of Large Scale Structure of the Universe
+and this confirms the similarity of the problems studied in the two fields. However,
+the problem of “redshift-space” corrections to the statistics of galaxy distribution
+(Kaiser 1987) has been addressed either in the linear regime when perturbations are
+small or when the velocity contribution to the Fourier spectrum can be factorized by
+a Maxwellian factor (see Hamilton 1998). The problem that is dealt in turbulence
+case is much richer as one has to deal with non-linear density fields transformed by
+coherent velocities.
+</p>
+<p class="ocr_abandon" title="bbox 340 2770 1581 2814">2A treatment of turbulence within individual clouds is slightly different (LP99).
+</p>
+<p class="ocr_abandon" title="bbox 1054 2890 1080 2924"> </p>
+</body></html>

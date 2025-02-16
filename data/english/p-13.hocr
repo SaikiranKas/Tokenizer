@@ -1,0 +1,50 @@
+<html><head></head><body><p class="ocr_plain_text" title="bbox 296 561 1842 962">small clouds in the extinction surveys by larger ones (Scalo &amp; Lazarian 1996). In
+view of the discussion above it looks that extinction survey may be closer to the
+truth, while a lot of structure detected via analyzing PPV cubes is due to velocity
+caustics. Paradoxically enough, emission data integrated over the spectral lines may
+provide a better handle on the distribution of cloud sizes compared to high resolution
+spectral-line data cubes. Averaging over velocity results in the distortions of the cloud
+size spectra due to occlusion effects, but these effects can be accounted for using the
+formulae from Scalo &amp; Lazarian (1996).
+</p>
+<p class="ocr_title" title="bbox 297 1048 1157 1109">8 Generalization of the technique
+</p>
+<p class="ocr_plain_text" title="bbox 297 1154 1844 1404">The formalism was described above in terms of HI power law statistics. It is obvi-
+ous that it can be modified to deal with arbitrary statistics and with a variety of
+emission transitions. Here we briefly discuss complications which a generalization of
+
+the technique in order to be applicable to molecular clouds and ionized media may
+encounter.
+</p>
+<p class="ocr_title" title="bbox 297 1488 1043 1538">8.1 Forward and inverse problems
+</p>
+<p class="ocr_title" title="bbox 298 1488 1044 1538">8.1 Forward and inverse problems
+</p>
+<p class="ocr_plain_text" title="bbox 297 1572 1841 1872">A considerable number of researchers believes that self-similar behavior reflected in
+power law statistics is a characteristic feature of the interstellar turbulence including
+the molecular cloud turbulence (see Elmegreen &amp; Falgarone 1996). However, some
+researchers (e.g. Williams 1999) see departures from a power law, e.g. signatures of
+a characteristic scale. In those cases, one still can find the underlying density and
+velocity statistics solving forward and inverse problems (see Lazarian 1999).
+</p>
+<p class="ocr_plain_text" title="bbox 297 1878 1841 2126">To solve the forward problem one needs to use expressions for the observable
+statistics, e.g. expressions for 2D and 1D spectra in PPV space (see eqs (A) and ({16))
+and fit the observable statistics varying the input of the velocity and density statistics.
+Naturally, the question of uniqueness for such solutions emerge, but with a reasonable
+choice of input parameters one may hope to avoid ambiguities.
+</p>
+<p class="ocr_plain_text" title="bbox 296 2132 1840 2729">A different approach involves the inversion of input data. Inversion also requires
+a model, but for the case of turbulence studies the model can be quite general and
+usually includes some symmetry assumptions, like the assumption of isotropy or axial
+symmetry of turbulence statistics (Lazarian 1994a, L95). For the case of turbulence
+the inversion has been developed for statistics of density (L95, Lazarian 1993) and
+magnetic field (Lazarian 1992, Lazarian 1994a). A remarkable property of the inver-
+sion for turbulence statistics is that it allows analytical solutions, which shows that
+the inversion is a well posed procedure in the mathematical sense. The procedure
+for inverting velocity data should be analogous to inverting density &amp; magnetic field
+statistics, but has not been developed so far. We expect wide application of forward
+and especially inverse problem technique when the deviations from self-similar behav-
+ior become apparent in the data.
+</p>
+<p class="ocr_abandon" title="bbox 1048 2891 1090 2926"> </p>
+</body></html>

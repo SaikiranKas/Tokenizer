@@ -1,0 +1,49 @@
+<html><head></head><body><p class="ocr_plain_text" title="bbox 300 563 1439 611">which is for power law spectra is a scale independent quantity.
+</p>
+<p class="ocr_plain_text" title="bbox 298 618 1843 914">In the studies of Large Scale Structure the hierarchical amplitudes were calculated
+for various initial conditions to compare with observations. In interstellar media it is
+advisable to compare various regions of sky using the tool. Impediments for the use of
+the technique stem from the increase of noise with the use of multipoint statistics and
+the problems of averaging along the line of sight. The problems should be addressed
+in the future.
+</p>
+<p class="ocr_title" title="bbox 298 992 769 1043">9.4 Other techniques
+</p>
+<p class="ocr_plain_text" title="bbox 297 1076 1841 1376">A wavelet technique (see Gill &amp; Henriksen 1990, Langer, Wilson &amp; Anderson 1993,
+Rauzy, Lachieze-Rey &amp; Henkiksen 1993) is discussed in this volume by Stutzki who
+proposed a so called A- variance technique (Stutzki et al. 1998) which is is related
+to wavelet transforms (Zielinsky &amp; Stutzki 1999). Wavelets potentially are a versatile
+tool that can filter out the large scale inhomogeneities of the data and concentrate
+the analysis on the scales of interest (see Stutzki, this volume).
+</p>
+<p class="ocr_plain_text" title="bbox 296 1380 1840 2428">Another useful statistical tool is the Principal Component Analysis (PCA). This
+tool was employed to spectral line imaging studies of the interstellar medium by Heyer
+&amp; Schloerb (1997). The goal of the PCA is to determine a set of orthogonal “axes” up,
+for which the the variance of the data is maximized. In the case of the data in n points
+with p velocity (spectrometer) channels for each point the data can be presented as
+6T,; = T;; — (Ti;)n, where T;; is the temperature at the channel j at a position 7 and
+(...)n denote averaging over positions. Maximazing the variance means maximizing the
+expression Yjj;Yij = UikSjkUsj, Where summation over the repeating indexes is implied
+and Six, = (6T;;5Tj%)n. In practice finding of u;; amounts to solving a set of eigenvalue
+equations S;,uz; = Auij. To visualize the variance related to /-th principal component
+eigenimages are constructed from the projections of T;; onto the eigenvector, i.e. Ith
+eigenimage at point (ri) is OTij;u1,;. Heyer &amp; Schloerb (1997) showed that using PCA
+technique it is possible to decompose large-scale spectroscopic images of molecular
+clouds. Their analysis enabled them to calculate the velocity - scale relations for
+a number of cloud complexes. In terms of the statistical analysis presented above,
+PCA provides a means of filtering out large scale features responsible for the largest
+contribution to the global variance. This makes the sample more homogeneous and
+suitable for describing using correlation functions and power spectra. The potential
+of this statistical tool is to be further explored. It is likely that combining the various
+set of data (for instance, HI and CO) more interesting correlations can be obtained
+via PCA technique.
+</p>
+<p class="ocr_title" title="bbox 298 2510 671 2567">10 Discussion
+</p>
+<p class="ocr_plain_text" title="bbox 297 2616 1840 2815">It is not possible to cover all the various interesting approaches that have been tried
+in order to study interstellar turbulence via emission lines. For instance, we omitted a
+discussion of 3D correlation functions in PPV space introduced in Perault et al. (1986).
+We did not cover studies of turbulence using centroids of velocity (see Dickman 1985)
+</p>
+<p class="ocr_abandon" title="bbox 1048 2890 1089 2926"> </p>
+</body></html>

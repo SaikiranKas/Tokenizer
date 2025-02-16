@@ -1,0 +1,60 @@
+<html><head></head><body><p class="ocr_plain_text" title="bbox 297 562 1839 660">emission when converted into dust column density provides a steep “Kolmogorov” -
+type spectrum.
+</p>
+<p class="ocr_plain_text" title="bbox 295 563 1816 660">emission when converted into dust column density provides a steep “Kolmogorov”
+type spectrum.
+</p>
+<p class="ocr_plain_text" title="bbox 297 663 1840 1110">One can argue that a possible hint in favor of HI density being short wave dom-
+inated comes from molecular data discussed in Stutzki et al. (1998). There for both
+CO (data from Heithausen &amp; Thaddeus (1990) and Falgarone et al. (1998)) and
+13CO (data from Heyer &amp; Schloerb (1997)) transitions the spectrum of intensity was
+observed to have a power law index ~ —2.8. As the data is averaged over velocity, the
+fluctuations of intensity are due to density fluctuations and the spectrum of density
+should have the same slope as the spectrum of emissivity (L95), provided that the
+transitions are optically thin. The problem is that they are not thin and therefore the
+analysis above is not applicable.
+</p>
+<p class="ocr_plain_text" title="bbox 293 1112 1836 1208">Attempting to establish the actual underlying spectrum one may use one dimen-
+sional spectrum introduced in LP99
+</p>
+<p class="ocr_isolate_formula" title="bbox 836 1238 1302 1339">P_{1}(k_{z})=\int d{\bf K}P_{s}({\bf K},k_{z})</p>
+<p class="ocr_formula_caption" title="bbox 1761 1263 1833 1314">(16)
+</p>
+<p class="ocr_plain_text" title="bbox 296 1363 1842 1573">Similar to two dimensional spectrum P, can be presented as a sum of P;,, which scales
+as k2("+2)/™ and Py, which scales as kp ?/™, Naturally, if n &lt; —3 P,, dominates,
+while P,, dominates for n &gt; —3. The analysis of data using P,(k,) has not been done
+so far.
+</p>
+<p class="ocr_title" title="bbox 297 1636 1169 1694">6 Anisotropies and Magnetic field
+</p>
+<p class="ocr_title" title="bbox 298 1732 1062 1784">6.1 Goldreich-Shridhar Turbulence
+</p>
+<p class="ocr_plain_text" title="bbox 296 1810 1840 2508">It is natural to expect that dynamically important magnetic field makes interstellar
+turbulence anisotropic (Montgomery 1982, Higton 1984). Indeed, it gets difficult for
+hydrodynamic motions to bend magnetic fields at small scales if the energy density
+of the magnetic field and hydrodynamic motions are comparable at large scales. The
+turbulence in ionized gas has been found to be anisotropic and its Kolmogorov-type
+spectrum of plasma density fluctuations observed via radio scintillations and scatter-
+ing (see Armstrong et al. 1995 and references therein) has been interpreted recently
+as a consequence of a new type of MHD cascade by Goldreich &amp; Sridhar (1995). The
+Goldreich-Shridhar model of turbulence] differs considerably from the Kraichnan one
+(Iroshnikov 1963, Kraichnan 1964). It accounts for the fact that hydrodynamic mo-
+tions can easily mix up magnetic field lines in the plane perpendicular to the direction
+of the mean field (see discussion in Lazarian &amp; Vishniac 1999). Such motions provide
+eddies elongated in the field direction and the velocity spectrum close to the Kol-
+mogorov one.
+</p>
+<p class="ocr_plain_text" title="bbox 297 2510 1841 2712">The Goldreich-Shridhar turbulence is anisotropic with eddies stretched along mag-
+netic field. The wavevector component parallel to magnetic field ky scales as Kel 3
+where k, is a wavevector component perpendicular to the field. Thus the degree of
+anisotropy increases with the decrease of scale.
+</p>
+<p class="ocr_abandon" title="bbox 295 2730 1839 2815">5A qualitative discussion of the model and the role of reconnection for the cascade can be found
+in Lazarian &amp; Vishniac (1999).
+</p>
+<p class="ocr_abandon" title="bbox 293 2732 1817 2815">5A qualitative discussion of the model and the role of reconnection for the cascade can be foun
+in Lazarian &amp; Vishniac (1999).
+</p>
+<p class="ocr_abandon" title="bbox 1048 2891 1088 2926">11
+</p>
+</body></html>

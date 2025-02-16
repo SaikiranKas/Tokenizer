@@ -1,0 +1,114 @@
+{
+    "google/mt5-large": {
+        "p-01.hocr": {
+            "Total_Words": 429,
+            "Total_Tokens": 712,
+            "Fertility_Score": 1.6596736596736597
+        },
+        "p-02.hocr": {
+            "Total_Words": 530,
+            "Total_Tokens": 873,
+            "Fertility_Score": 1.6471698113207547
+        },
+        "p-03.hocr": {
+            "Total_Words": 529,
+            "Total_Tokens": 839,
+            "Fertility_Score": 1.5860113421550095
+        },
+        "p-04.hocr": {
+            "Total_Words": 468,
+            "Total_Tokens": 771,
+            "Fertility_Score": 1.6474358974358974
+        },
+        "p-05.hocr": {
+            "Total_Words": 469,
+            "Total_Tokens": 1058,
+            "Fertility_Score": 2.255863539445629
+        },
+        "p-06.hocr": {
+            "Total_Words": 351,
+            "Total_Tokens": 975,
+            "Fertility_Score": 2.7777777777777777
+        },
+        "p-07.hocr": {
+            "Total_Words": 483,
+            "Total_Tokens": 1180,
+            "Fertility_Score": 2.443064182194617
+        },
+        "p-08.hocr": {
+            "Total_Words": 393,
+            "Total_Tokens": 680,
+            "Fertility_Score": 1.7302798982188294
+        },
+        "p-09.hocr": {
+            "Total_Words": 619,
+            "Total_Tokens": 1057,
+            "Fertility_Score": 1.7075928917609047
+        },
+        "p-10.hocr": {
+            "Total_Words": 638,
+            "Total_Tokens": 1023,
+            "Fertility_Score": 1.603448275862069
+        },
+        "p-11.hocr": {
+            "Total_Words": 487,
+            "Total_Tokens": 845,
+            "Fertility_Score": 1.735112936344969
+        },
+        "p-12.hocr": {
+            "Total_Words": 498,
+            "Total_Tokens": 941,
+            "Fertility_Score": 1.8895582329317269
+        },
+        "p-13.hocr": {
+            "Total_Words": 459,
+            "Total_Tokens": 739,
+            "Fertility_Score": 1.6100217864923747
+        },
+        "p-14.hocr": {
+            "Total_Words": 472,
+            "Total_Tokens": 748,
+            "Fertility_Score": 1.5847457627118644
+        },
+        "p-15.hocr": {
+            "Total_Words": 483,
+            "Total_Tokens": 825,
+            "Fertility_Score": 1.7080745341614907
+        },
+        "p-16.hocr": {
+            "Total_Words": 415,
+            "Total_Tokens": 852,
+            "Fertility_Score": 2.053012048192771
+        },
+        "p-17.hocr": {
+            "Total_Words": 503,
+            "Total_Tokens": 825,
+            "Fertility_Score": 1.640159045725646
+        },
+        "p-18.hocr": {
+            "Total_Words": 458,
+            "Total_Tokens": 694,
+            "Fertility_Score": 1.51528384279476
+        },
+        "p-19.hocr": {
+            "Total_Words": 484,
+            "Total_Tokens": 1132,
+            "Fertility_Score": 2.3388429752066116
+        },
+        "p-20.hocr": {
+            "Total_Words": 527,
+            "Total_Tokens": 1322,
+            "Fertility_Score": 2.50853889943074
+        },
+        "p-21.hocr": {
+            "Total_Words": 287,
+            "Total_Tokens": 719,
+            "Fertility_Score": 2.505226480836237
+        },
+        "Document_Level": {
+            "Total_Words": 9982,
+            "Total_Tokens": 18810,
+            "Fertility_Score": 1.8843919054297735
+        }
+    }
+}

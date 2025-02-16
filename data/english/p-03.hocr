@@ -1,0 +1,51 @@
+<html><head></head><body><p class="ocr_plain_text" title="bbox 297 563 1839 709">tics of turbulence in various interstellar phases, including neutral gas. More impor-
+tantly, velocity information allows one to distinguish between static structures and
+dynamical turbulence.
+</p>
+<p class="ocr_plain_text" title="bbox 297 714 1840 1058">The difficulty of studying Doppler broadened lines stems from the fact that one
+has to account for both velocity and density fluctuations. Indeed, at any given velocity
+the fluctuation of emissivity may arise both from the actual blobs of gas moving at
+this velocity and from parcels of gas with different spatial positions but accidentally
+having the same component of velocity along the line of sight. Therefore fluctuations
+of emissivity at a given velocity would be expected even if the media were completely
+incompressible.
+</p>
+<p class="ocr_plain_text" title="bbox 298 1063 1841 1557">There exist various ways of dealing with position-position-velocity (henceforth
+PPV) data cubes. One of them is to identify clumps and to describe their statistics
+(see Stutzki &amp; Gusten 1990, Williams, de Geus &amp; Blitz 1994). Another is use a more
+traditional set of hydrodynamic tools like power spectra, structure functions etc. The
+two statistics are interrelated (see Stutzki et al. 1998), but in general the relation
+between various tools is non-trivial. It seems that for answering various questions
+different statistical tools are more suitable. Therefore it is very encouraging that a
+number of techniques, including Principal Component Analysis (see Heyer &amp; Schloerb
+1997) and Spectral Correlation Functions (Goodman 1999, Rosolowsky et al. 1999)
+have been recently introduced to the field.
+</p>
+<p class="ocr_plain_text" title="bbox 297 1561 1840 2407">In what follows I depart from a traditional statistical hydrodynamics and de-
+scribe how the 3D velocity and density power spectra can be extracted from position-
+position-velocity (PPV) data cubes. This choice reflects my subjective preferences
+and partially motivated by the fact that this approach relates the long-studied 3D
+density and velocity statistics (e.g. power spectra) with the observational data. Even
+with this limitation the scope the subject is too broad and I shall mostly talk about
+atomic hydrogen (HI) studies, that can be viewed as a test case for the technique. I
+discuss advantages of using HI as a test case in section 2, the problem of space-velocity
+mapping in section 3 and spectra in velocity slices in section 4. The interpretation of
+21 cm Galactic and SMC data is given in section 5. Possible anisotropies of statistics
+stemming from magnetic field are dealt with in section 6, where a new technique for
+statistical studies of magnetic field is suggested. I consider formation of emissivity en-
+hancements that can be identified as filaments and clouds in section 7 and discuss the
+generalization of the technique in section 8. Being aware of the limitations of the tra-
+ditional hydrodynamic description of turbulence, we describe alternative approaches,
+i.e. 2D Genus statistics, Spectral Correlation Functions and Bispectrum in section 9.
+A short discussion of the results is given in section 10.
+</p>
+<p class="ocr_title" title="bbox 297 2467 823 2525">2 HIasa Test Case
+</p>
+<p class="ocr_plain_text" title="bbox 295 2567 1840 2815">Atomic hydrogen is an important component of the interstellar media and many
+efforts have been devoted to its studies (see Burton 1992). In terms of turbulence
+studies it has a number of advantages. For one thing, when dealing with HI one
+may in most cases disregard self-absorption. There are two major reasons for that:
+self-absorption is small (Braun 1997, Higgs 1999) and as shown in Lazarian (1995,
+</p>
+<p class="ocr_abandon" title="bbox 1054 2891 1082 2925"> </p>
+</body></html>

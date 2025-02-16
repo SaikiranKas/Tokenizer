@@ -1,0 +1,48 @@
+<html><head></head><body><p class="ocr_abandon" title="bbox 51 867 168 2191">0007 URL T TATOOTO00/Ud-onse: Arye:
+</p>
+<p class="ocr_abandon" title="bbox 57 881 166 2208">0007 URL T TALOOLOOO/Ud-onse: atx’
+</p>
+<p class="ocr_title" title="bbox 346 888 1789 1033">Statistics of Turbulence from Spectral-Line Data
+Cubes
+</p>
+<p class="ocr_plain_text" title="bbox 917 1107 1217 1164">Alex Lazarian
+</p>
+<p class="ocr_plain_text" title="bbox 438 1208 1693 1297">Department of Astronomy, University of Wisconsin, Madison, USA; email:
+lazarian@astro.wisc.edu
+</p>
+<p class="ocr_plain_text" title="bbox 296 1349 1838 2023">Abstract. Emission in spectral lines can provide unique information on interstellar turbulence.
+Doppler shifts due to supersonic motions contain information on turbulent velocity field which is
+otherwise difficult to measure. However, the problem of separation of velocity and density fluctuations
+is far from being trivial. Using atomic hydrogen (HI) as a test case, I review techniques applicable to
+emission line studies with the emphasis on those that can provide information on the underlying power
+spectra of velocity and density. I show that recently developed mathematical machinery is promising
+for the purpose. Its application to HI shows that in cold neutral hydrogen the velocity fluctuations
+dominate the small scale structures observed in spectral-line data cubes and this result is very
+important for the interpretation of observational data, including the identification of clouds. Velocity
+fluctuations are shown to dominate the formation of small scale structures that can be erroneously
+identified as diffuse clouds. One may argue that the HI data is consistent with the Goldreich-Shridhar
+picture of magnetohydrodynamic turbulence, but the cascade from the scales of several kpc that this
+interpretation involves does not fit well in the current paradigm of energy injection. The issue whether
+magnetic field does make the turbulence anisotropic is still open, but if this is the case, I show that
+studies of emission lines can provide a reliable way of determining magnetic field direction. I discuss
+various techniques for studying interstellar turbulence using emission lines, e.g. spectral correlation
+functions, genus statistics and principal component analysis.
+</p>
+<p class="ocr_title" title="bbox 298 2112 695 2168">1 Introduction
+</p>
+<p class="ocr_plain_text" title="bbox 297 2214 1840 2514">The interstellar medium is turbulent and the turbulence is crucial for understanding
+of various interstellar processes. Interstellar turbulence occurs in magnetized fluid and
+magnetic field establishes a connection between ISM phases (McKee &amp; Ostriker 1977)
+thus making the turbulent cascade much more complex and coupling together cosmic
+rays and gas. Theoretical understanding of such a multiphase media with the injection
+of energy at different scales (Scalo 1987) is extremely challenging.
+</p>
+<p class="ocr_plain_text" title="bbox 297 2519 1841 2815">In terms of the topic of the present meeting, turbulence is important both for
+accelerating cosmic rays and for their diffusion. Indeed, whatever mechanism of cos-
+mic ray acceleration we consider, its understanding requires proper accounting for
+scattering of cosmic rays by turbulent magnetic field. The same is true for the prop-
+agation of cosmic rays. For instance, if it were not for magnetic field lines wandering,
+the diffusion of cosmic rays perpendicular to the magnetic field direction would be
+</p>
+<p class="ocr_abandon" title="bbox 1055 2891 1078 2925"> </p>
+</body></html>

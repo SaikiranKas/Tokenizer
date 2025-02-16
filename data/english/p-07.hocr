@@ -1,0 +1,66 @@
+<html><head></head><body><p class="ocr_plain_text" title="bbox 295 560 1841 862">Galactic coordinates. Note, that n &lt; 0 and v &lt; 0 and D, = Cr™, where m = —v —3.
+Power law spectra were also reported for molecular 1*CO (data from Heithausen &amp;
+Thaddeus 1990 and Falgarone et al. 1998) and 1°CO (data from Heyer &amp; Schloerb
+1997) lines and it looks that power law spectra are quite generic for interstellar tur-
+bulence (Armstrong et al. 1997). Thus the assumption of a power law statistics does
+not tangibly constrain the range of applicability of the developed theory}
+</p>
+<p class="ocr_plain_text" title="bbox 294 863 1840 955">For power-law spectra of density with n &gt; —3 the correlation functions are also
+power-law:
+</p>
+<p class="ocr_isolate_formula" title="bbox 636 957 1490 1044">\xi(r)=\langle\rho\rangle^{2}\left(1+\Big(\frac{r_{0}}{r}\Big)^{\gamma}\Big)\,,\qquad\gamma=n+3&gt;0\quad.</p>
+<p class="ocr_formula_caption" title="bbox 1779 974 1835 1025"> </p>
+<p class="ocr_plain_text" title="bbox 355 1045 1158 1109">Substituting Eq. ®&amp;) in (a) one can see that
+</p>
+<p class="ocr_isolate_formula" title="bbox 629 1121 1493 1183">P_{s}(\vert{\bf K}\vert,k_{z})=\langle\rho\rangle^{2}\lbrack P_{v}(\vert{\bf K}\vert,k_{z})+P_{\rho}(\vert{\bf K}\vert,k_{z})\rbrack\quad\ ,</p>
+<p class="ocr_formula_caption" title="bbox 1759 1127 1835 1178">(10)
+</p>
+<p class="ocr_plain_text" title="bbox 296 1196 1838 1399">where the part P, comes from integrating unity in Eq. (p) and the part P, comes
+from integration the (72)? part. As we may see, the P, part is influenced by both
+velocity and density fluctuations, while P, part arises only from density fluctuations.
+LP99 show that an expression is similar to (id) valid for n &lt; —3.
+</p>
+<p class="ocr_plain_text" title="bbox 293 1402 1838 1500">The relation between 2D spectrum in velocity slices and the underlying 3D emis-
+sivity spectrum in the PPV space is given by
+</p>
+<p class="ocr_plain_text" title="bbox 294 1402 1817 1500">The relation between 2D spectrum in velocity slices and the underlying 3D emis
+sivity spectrum in the PPV space is given by
+</p>
+<p class="ocr_isolate_formula" title="bbox 496 1516 1599 1625">P_{2}(\mathbf{K})|_{\mathbb{Z}}\sim{\frac{1}{2\pi}}\int_{-\infty}^{\infty}d k_{z}P_{s}(\mathbf{K},k_{z})\,2\left[(1-\cos(k_{z}Z))/(k_{z}Z)^{2}\right]</p>
+<p class="ocr_formula_caption" title="bbox 1759 1544 1835 1594"> </p>
+<p class="ocr_plain_text" title="bbox 295 1643 1839 1939">where K denotes a 2D wavevector defined in the planes perpendicular to the line-of-
+sight and |¢ reflects the dependence on the slice thickness. Equation represents
+the one dimensional integral of the three dimensional spectrum with the window
+function given by the expression in square brackets. It is easy to see that the thinner
+is the velocity slice £, the larger the k, range for which the window function is close
+to unity and therefore more 3D modes contribute to 2D spectrum.
+</p>
+<p class="ocr_plain_text" title="bbox 294 1940 1839 2041">Substituting ({LO) into ((1)) one can see that the two dimensional spectrum can be
+presented as a sum
+</p>
+<p class="ocr_isolate_formula" title="bbox 699 2060 1424 2123">{\cal P}_{2}(\left|\mathbf{K}\right|)\equiv\left\langle\rho\right\rangle^{2}\left[{\cal P}_{2v}(\left|\mathbf{K}\right|)+{\cal P}_{2\rho}(\left|\mathbf{K}\right|)\right]\quad,</p>
+<p class="ocr_formula_caption" title="bbox 1760 2066 1834 2116"> </p>
+<p class="ocr_plain_text" title="bbox 294 2140 1839 2288">where the expressions for Pz, and P2, are self-evident. To avoid possible misunder-
+standing I would like to stress that P2, and Po, are not 2D velocity and density
+spectra and, for instance, P2, depends both on velocity and density statistics.
+</p>
+<p class="ocr_plain_text" title="bbox 294 2292 1841 2435">Velocity fluctuations are most important for supersonic turbulence which is the
+case for cold HI. In this situation the following power-law asymptotics can be obtained
+(see Table 1):
+</p>
+<p class="ocr_isolate_formula" title="bbox 756 2438 1377 2490">[\mathrm{lill}\mathbf{i}\mathbf{I}]\mathbf{\delta}\ S\L\iota\qquad\qquad{\mathcal{C}}|\mathbf{K}|^{-m}\n\gg\delta V^{2}</p>
+<p class="ocr_formula_caption" title="bbox 1760 2440 1834 2490"> </p>
+<p class="ocr_isolate_formula" title="bbox 757 2500 1377 2554">[\mathrm{lilick~slilice:~}\qquad\qquad{\cal C}|\Im\pm]^{-m}\ll\delta V^{2}.</p>
+<p class="ocr_formula_caption" title="bbox 1760 2506 1835 2555"> </p>
+<p class="ocr_plain_text" title="bbox 292 2567 1842 2717">In other words, if the velocity dispersion C'r™ on the scale |K|~! is larger than the
+squared width of the channel (in velocity units) the slice is termed thin. If the opposite
+is true the slice is termed thick.
+</p>
+<p class="ocr_abandon" title="bbox 295 2730 1839 2816">3It is rather unnatural to expect that velocity and density spectra not being power laws conspire
+to produce power law emissivity.
+</p>
+<p class="ocr_abandon" title="bbox 292 2732 1817 2815">3It is rather unnatural to expect that velocity and density spectra not being power laws conspit
+to produce power law emissivity.
+</p>
+<p class="ocr_abandon" title="bbox 1055 2889 1081 2926"> </p>
+</body></html>

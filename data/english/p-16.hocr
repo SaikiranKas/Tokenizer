@@ -1,0 +1,56 @@
+<html><head></head><body><p class="ocr_plain_text" title="bbox 296 563 1594 611">et al. 1989) and therefore it is tempting to apply it to the ISM studies.
+</p>
+<p class="ocr_plain_text" title="bbox 296 617 1839 759">The two dimensional genus analysis can be directly related to the media topology.
+By 2D maps we mean here maps integrated over the emission line, i.e. total intensity
+maps.
+</p>
+<p class="ocr_plain_text" title="bbox 360 762 1235 812">A two-dimensional genus is (Melott et al. 1989)
+</p>
+<p class="ocr_plain_text" title="bbox 293 850 1987 902">G2(™%) = (number of isolated high density regions)—(number of isolated low density regions)
+</p>
+<p class="ocr_plain_text" title="bbox 296 939 1839 1388">where 1, denotes the dependence of genus on the threshold density in units of standard
+deviations from the mean. It is obvious that if one raises the density threshold from
+the mean, the low density regions coalesce and the genus becomes more positive. The
+opposite is true if 4, decreases. Thus for Gaussian fluctuations one expects genus to
+be antisymmetric about zero, but the actual distributions should be able to reveal
+“bubble” or “meatball” topology of various parts of the ISM. Algorithms exist for
+calculating genus for 2D maps, e.g. microwave background maps (Colley et al. 1996)
+and therefore the application of genus statistics to interstellar maps is straightforward
+(and long overdue).
+</p>
+<p class="ocr_plain_text" title="bbox 297 1390 1840 1739">The 3D genus statistics (see Gott et al. 1989) in PPV space is less easy to interpret.
+As we discussed earlier, a lot of structures there are due to velocity caustics and
+the relation of the structures in galactic coordinates and PPV space is not obvious.
+However, it seems interesting to apply genus analysis to the PPV space in search
+for another statistical tool to distinguish various interstellar regions. After all, SCF
+introduced by Alyssa Goodman do not have a straightforward relation to the known
+parameters, but are very useful.
+</p>
+<p class="ocr_title" title="bbox 297 1796 654 1845">9.3. Bispectrum
+</p>
+<p class="ocr_plain_text" title="bbox 296 1875 1840 2020">Attempts to use multipoint statistics are a more traditional way to remove the con-
+straints that the use of two point statistics, e.g. power spectra entails. Unfortunately,
+very high quality data is needed to obtain the multipoint statistics.
+</p>
+<p class="ocr_plain_text" title="bbox 296 2025 1840 2169">Among multipoint statistics, bispectrum (see Scoccimarro 1997) seems the most
+promising. This is partially because it has been successfully used in the studies of the
+Large Scale Structure of the Universe.
+</p>
+<p class="ocr_plain_text" title="bbox 295 2174 1841 2272">Bispectrum is a Fourier transform of the three point correlation function and if
+the power spectrum P(k) is defined as
+</p>
+<p class="ocr_isolate_formula" title="bbox 749 2308 1390 2368">\langle\delta\rho({\bf k}_{1})\delta\rho({\bf k}_{2})\rangle\stackrel{\_}{=}\cal P({\bf k})\delta_{D}({\bf k}_{1}+{\bf k}_{2})</p>
+<p class="ocr_formula_caption" title="bbox 1760 2311 1834 2361"> </p>
+<p class="ocr_plain_text" title="bbox 296 2401 1838 2502">where 6p is the Dirac delta function that is zero apart from the case when k; +k2 = 0,
+the bispectrum By23 is
+</p>
+<p class="ocr_isolate_formula" title="bbox 645 2538 1498 2597">\langle\delta\rho(\bf k_{1})\delta\rho(\bf k_{2})\delta\rho(\bf k_{3})\rangle=B_{123}\delta_{D}(\bf k_{1}+k_{2}+\bf k_{3})</p>
+<p class="ocr_formula_caption" title="bbox 1759 2543 1834 2593"> </p>
+<p class="ocr_plain_text" title="bbox 357 2630 1840 2683">It is advantageous to use “hierarchical amplitude” (Fry &amp; Seldner 1982) statistics
+</p>
+<p class="ocr_isolate_formula" title="bbox 612 2716 1521 2828">\Phi_{123}\equiv\frac{B_{123}}{P({\bf k}_{1})P({\bf k}_{2})+P({\bf k}_{2})P({\bf k}_{3})+P({\bf k}_{3})P({\bf k}_{1})}</p>
+<p class="ocr_formula_caption" title="bbox 1759 2743 1834 2794">(22)
+</p>
+<p class="ocr_abandon" title="bbox 1047 2889 1091 2927">16
+</p>
+</body></html>
