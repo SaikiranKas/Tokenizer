@@ -12,6 +12,6 @@ token_ids = tokenizer.convert_tokens_to_ids(tokens)
 
 print("Tokens:", tokens)
 
-Decode back to text
+
 decoded_text = tokenizer.decode(token_ids)
 print("Decoded Text:", decoded_text)

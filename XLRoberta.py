@@ -73,7 +73,7 @@ def process_hocr_folder(folder_path):
     }
 
     # Save results to JSON file
-    json_filename = os.path.join(r"C:\Users\Saikiran Kasturi\OneDrive\Desktop\Tokenizer\output_tokenizer\results_telugu", "Kosmostokenization_results.json")
+    json_filename = os.path.join(r"output_tokenizer\results_telugu", "Kosmostokenization_results.json")
     with open(json_filename, "w", encoding="utf-8") as json_file:
         json.dump(results, json_file, indent=4)
 
@@ -82,7 +82,7 @@ def process_hocr_folder(folder_path):
 
 # Example usage
 if __name__ == "__main__":
-    folder_path = r"C:\Users\Saikiran Kasturi\OneDrive\Desktop\Tokenizer\data\Telugu"
+    folder_path = r"C:\Users\Saikiran Kasturi\OneDrive\Desktop\Tokenizers\data\Telugu"
     if os.path.isdir(folder_path):
         process_hocr_folder(folder_path)
     else:

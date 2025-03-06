@@ -4,14 +4,18 @@ from bs4 import BeautifulSoup
 from transformers import AutoTokenizer
 
 def process_hocr_folder(folder_path):
-    # Load the UDOP tokenizer
-    tokenizer_name = "microsoft/udop-large"
+    # Load the Galactica tokenizer
+    tokenizer_name = "facebook/galactica-1.3b"
     tokenizer = AutoTokenizer.from_pretrained(tokenizer_name)
+
+    # Fix: Add a custom PAD token explicitly
+    if tokenizer.pad_token is None:
+        tokenizer.add_special_tokens({'pad_token': '[PAD]'})  # Define a new PAD token
 
     # Dictionary to store results
     results = {tokenizer_name: {}}
 
-    # Variables to track total words and tokens for entire document
+    # Variables to track total words and tokens for the entire document
     total_doc_words = 0
     total_doc_tokens = 0
 
@@ -23,42 +27,36 @@ def process_hocr_folder(folder_path):
             with open(file_path, "r", encoding="utf-8") as file:
                 soup = BeautifulSoup(file, "lxml")  # Parse HOCR file
 
-                # Lists to store extracted paragraphs and bounding boxes per page
+                # Lists to store extracted paragraphs per page
                 paragraphs = []
-                bounding_boxes = []
 
                 # Find all <p> tags
                 for p_tag in soup.find_all("p"):
                     # Get paragraph text
                     paragraph_text = p_tag.get_text(strip=True)
                     
-                    # Extract bounding box from class attribute
-                    title_attr = p_tag.get("title", "")
-                    bbox = None
-                    if "bbox" in title_attr:
-                        bbox_values = title_attr.split("bbox")[-1].strip().split(";")[0].strip()
-                        bbox = [int(x) for x in bbox_values.split()]  # Convert to list of integers
-                    
-                    # Store results if paragraph exists and bbox is found
-                    if paragraph_text and bbox:
+                    # Store results if paragraph exists
+                    if paragraph_text:
                         paragraphs.append(paragraph_text)
-                        bounding_boxes.append(bbox)
 
             # Tokenization, word counting, and fertility score calculation per page
             total_words = 0
             total_tokens = 0
             
-            for paragraph, bbox in zip(paragraphs, bounding_boxes):
+            for paragraph in paragraphs:
                 words = paragraph.split()  # Splitting into words
                 num_words = len(words)
                 total_words += num_words
                 total_doc_words += num_words
                 
-                # Assign the same bounding box to every word in the paragraph
-                word_bboxes = [bbox] * num_words  # Duplicate the bounding box for each word
-                
-                # Tokenizing paragraph with duplicated bounding boxes
-                encoded_input = tokenizer(words, boxes=word_bboxes, is_split_into_words=True, return_tensors="pt", padding=True, truncation=True)
+                # Tokenizing paragraph
+                encoded_input = tokenizer(
+                    paragraph, 
+                    return_tensors="pt", 
+                    padding="longest",  # Ensures longest sequence is padded
+                    truncation=True, 
+                    max_length=512 # Prevents overly long sequences
+                )
 
                 # Extracting tokenized output
                 tokens = tokenizer.convert_ids_to_tokens(encoded_input["input_ids"][0])
@@ -84,8 +82,12 @@ def process_hocr_folder(folder_path):
         "Fertility_Score": document_fertility_score
     }
 
+    # Ensure the output directory exists
+    output_dir = r"output_tokenizer/results_telugu"
+    os.makedirs(output_dir, exist_ok=True)  # Create directories if they don’t exist
+
     # Save results to JSON file
-    json_filename = os.path.join(r"output_tokenizer\results_telugu", "UDOP_results.json")
+    json_filename = os.path.join(output_dir, "Galactica_tokenization_results.json")
     with open(json_filename, "w", encoding="utf-8") as json_file:
         json.dump(results, json_file, indent=4)
 
@@ -94,9 +96,9 @@ def process_hocr_folder(folder_path):
 
 # Example usage
 if __name__ == "__main__":
-    folder_path = r"C:/\Users/\Saikiran Kasturi/\OneDrive\Desktop/\Tokenizers/\data/\Telugu"
-    print(folder_path)
+    folder_path = r"data/Telugu"
+    
     if os.path.isdir(folder_path):
         process_hocr_folder(folder_path)
     else:
-        print("Invalid folder path. Please try again.")
+        print(f"Error: The folder path '{folder_path}' does not exist. Please check the path and try again.")
